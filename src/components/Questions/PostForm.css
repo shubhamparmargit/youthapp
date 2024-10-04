@@ -1,0 +1,59 @@
+/* PostForm.css */
+.modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    right: auto;
+    bottom: auto;
+    transform: translate(-50%, -50%);
+    background: #fff;
+    padding: 20px;
+    max-width: 500px;
+    width: 100%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+  }
+  
+  .overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.75);
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin: 10px 5px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .next-button {
+    background-color: #ca78d3;
+    color: white;
+  }
+  
+  .previous-button {
+    background-color: #b458c9;
+    color: white;
+  }
+  
+  .submit-button {
+    background-color: #04c2bf;
+    color: white;
+  }
+  
+  input, textarea, select {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    box-sizing: border-box;
+  }
+  .error {
+    color: red;
+    font-size: 0.875em;
+  }

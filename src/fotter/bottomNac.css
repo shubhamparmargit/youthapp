@@ -1,0 +1,30 @@
+/* BottomNav.css */
+.bottom-nav {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: #fff;
+    box-shadow: 0 -1px 10px rgba(0, 0, 0, 0.1);
+    padding: 0px 10px 10px 0;
+  }
+  
+  .nav-item {
+    flex: 1;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+    color: #000;
+    font-weight: bold;
+  }
+  
+  .nav-item:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .nav-item.active {
+    border-top: 2px solid #007bff;
+    color: #007bff;
+  }
+  

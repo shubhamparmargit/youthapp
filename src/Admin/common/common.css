@@ -1,0 +1,16 @@
+.custom-toast {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    border-radius: 8px;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+  }
+  
+  .custom-toast.show {
+    opacity: 1;
+  }
+  
