@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9b67efde.css",
+    "main.js": "./static/js/main.6dbf8401.js",
+    "static/media/appBg.png": "./static/media/appBg.e8ec6a08ec1a4ad0c465.png",
+    "static/media/other.jpg": "./static/media/other.f7dd05529ddee8d48d1c.jpg",
+    "static/media/IBMPlexSans-BoldItalic.ttf": "./static/media/IBMPlexSans-BoldItalic.2078e351dd8d85240597.ttf",
+    "static/media/IBMPlexSans-Regular.ttf": "./static/media/IBMPlexSans-Regular.d77342fdcbcb6b3ce1b5.ttf",
+    "static/media/IBMPlexSans-Bold.ttf": "./static/media/IBMPlexSans-Bold.e933eba4e2fcc3d71b31.ttf",
+    "static/media/educationAndCar.jpg": "./static/media/educationAndCar.24fc7070f8c13b91d291.jpg",
+    "static/media/boysBehaviour.jpg": "./static/media/boysBehaviour.dd891b8ad30302233b02.jpg",
+    "static/media/girls behaviour.jpg": "./static/media/girls behaviour.226fe72427c450b500d4.jpg",
+    "static/media/breakup.jpg": "./static/media/breakup.6d8a0e803b8df34f1553.jpg",
+    "static/media/intimicy.jpg": "./static/media/intimicy.5580df587d6d9b56ce7e.jpg",
+    "static/media/news.jpg": "./static/media/news.3d6e39bf16dffb210d33.jpg",
+    "static/media/fitness.jpg": "./static/media/fitness.50940d134f64b6817885.jpg",
+    "static/media/relationshipAdvice.jpg": "./static/media/relationshipAdvice.f6a07e673a2d15490b83.jpg",
+    "static/media/actor.jpg": "./static/media/actor.8488eb6228a0bc909341.jpg",
+    "static/media/BoyD.png": "./static/media/BoyD.85acdd44085b8b2fd6f4.png",
+    "static/media/GirlD.png": "./static/media/GirlD.8a4ed6b5216fcd01909f.png",
+    "static/media/spyImg.png": "./static/media/spyImg.faf2e16adbbbbef2bd56.png",
+    "index.html": "./index.html",
+    "main.9b67efde.css.map": "./static/css/main.9b67efde.css.map",
+    "main.6dbf8401.js.map": "./static/js/main.6dbf8401.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b67efde.css",
+    "static/js/main.6dbf8401.js"
+  ]
+}
