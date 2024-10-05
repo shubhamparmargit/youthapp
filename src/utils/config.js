@@ -1,8 +1,6 @@
 // config.js
 const config = {
-    baseUrl: 'http://13.232.198.203',
+  baseUrl: "http://13.233.142.18",
+};
 
-  };
-  
-  module.exports = config;
-  
+module.exports = config;
